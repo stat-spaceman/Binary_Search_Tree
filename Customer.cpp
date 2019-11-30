@@ -1,9 +1,4 @@
-/*
- * Customer.cpp
- *
- *  Created on: Mar 5, 2010
- *      Author: mori
- */
+
 
 #include "Customer.h"
 

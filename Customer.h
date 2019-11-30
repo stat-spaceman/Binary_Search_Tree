@@ -1,9 +1,4 @@
-/*
- * Customer.h
- *
- *  Created on: Mar 5, 2010
- *      Author: mori
- */
+
 
 #ifndef CUSTOMER_H_
 #define CUSTOMER_H_

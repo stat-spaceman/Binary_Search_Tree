@@ -1,6 +1,8 @@
 # Binary_Search_Tree
  implement (in C++) a pointer-based binary search tree to store and retrieve customer data.
  
+![Alt text](https://static.packt-cdn.com/products/9781783558476/graphics/B04096_06_03.jpg)
+ 
  BSTree.h and BSTree.cpp  
  ---
 implement a binary search tree that has the following methods
